@@ -1,0 +1,7 @@
+Messages:
+  balance:
+    - '&aSeu saldo: <balance> créditos.'
+  add:
+    - '&aFoi adicionado &7<balance> &acréditos para o jogador &7<target> &a.'
+  set:
+    - '&aFoi setado &7<balance> &acréditos para o jogador &7<target> &a.'

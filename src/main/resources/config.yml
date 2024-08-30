@@ -1,0 +1,6 @@
+mysql:
+  host: "us7.pear.urubuhost.com"
+  port: 3306
+  database: "s1002_rankup_oriental"
+  username: "u1002_ptFYKLUhgX"
+  password: "6FtINoBvE@rDQV.k2AYPMV4S"
